@@ -1,5 +1,7 @@
 # Next-Word-Prediction-Using-LSTM
-Next word prediction using LSTM is a natural language processing task where a neural network model, typically built with Long Short-Term Memory (LSTM) units, is trained to predict the upcoming word or words in a sequence of text. It leverages the model's ability to capture contextual dependencies in language, enabling it to suggest the most likely next word based on the preceding words, making it valuable in applications like auto-completion and language generation.
+Next word prediction using LSTM (Long Short-Term Memory) is a natural language processing (NLP) task that involves training a neural network, specifically an LSTM-based model, to predict the most likely word or sequence of words that will come after a given input text.
+
+This predictive model leverages the sequential nature of language by capturing dependencies and context from the previous words in the input. LSTM networks are particularly well-suited for this task because they can handle long-range dependencies and avoid the vanishing gradient problem.
 
 # Steps for Implementing Code
 
